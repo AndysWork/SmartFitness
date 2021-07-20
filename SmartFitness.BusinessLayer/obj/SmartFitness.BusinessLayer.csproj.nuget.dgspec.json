@@ -1,0 +1,341 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.BusinessLayer\\SmartFitness.BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.BusinessLayer\\SmartFitness.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.BusinessLayer\\SmartFitness.BusinessLayer.csproj",
+        "projectName": "SmartFitness.BusinessLayer",
+        "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.BusinessLayer\\SmartFitness.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\91994\\.nuget\\packages\\",
+        "outputPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\91994\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj": {
+                "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj"
+              },
+              "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Exceptions\\SmartFitness.Logging.csproj": {
+                "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Exceptions\\SmartFitness.Logging.csproj"
+              },
+              "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Helpers\\SmartFitness.Helpers.csproj": {
+                "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Helpers\\SmartFitness.Helpers.csproj"
+              },
+              "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\SmartFitness.Mappers.csproj": {
+                "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\SmartFitness.Mappers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj",
+        "projectName": "SmartFitness.DataLayer",
+        "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\91994\\.nuget\\packages\\",
+        "outputPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\91994\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Exceptions\\SmartFitness.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Exceptions\\SmartFitness.Logging.csproj",
+        "projectName": "SmartFitness.Logging",
+        "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Exceptions\\SmartFitness.Logging.csproj",
+        "packagesPath": "C:\\Users\\91994\\.nuget\\packages\\",
+        "outputPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\91994\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Helpers\\SmartFitness.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Helpers\\SmartFitness.Helpers.csproj",
+        "projectName": "SmartFitness.Helpers",
+        "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Helpers\\SmartFitness.Helpers.csproj",
+        "packagesPath": "C:\\Users\\91994\\.nuget\\packages\\",
+        "outputPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\91994\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\SmartFitness.Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\SmartFitness.Mappers.csproj",
+        "projectName": "SmartFitness.Mappers",
+        "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\SmartFitness.Mappers.csproj",
+        "packagesPath": "C:\\Users\\91994\\.nuget\\packages\\",
+        "outputPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\91994\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

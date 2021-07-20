@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "opVqzYan3c13z47Gpx2yO94O2JDHPn7q86dHnFzWSfVEgiaxbMVf/4O4NVKL86whj5Ak60i9QHr1GxK+nIJlXA==",
+  "success": true,
+  "projectFilePath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.Mappers\\SmartFitness.Mappers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91994\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\91994\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\91994\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
