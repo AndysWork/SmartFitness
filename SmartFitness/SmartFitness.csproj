@@ -25,7 +25,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SmartFitness.BusinessLayer\SmartFitness.BusinessLayer.csproj" />
-    <ProjectReference Include="..\SmartFitness.Exceptions\SmartFitness.Exceptions.csproj" />
+    <ProjectReference Include="..\SmartFitness.Exceptions\SmartFitness.Logging.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFitness.Mappers", "Sma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFitness.Helpers", "SmartFitness.Helpers\SmartFitness.Helpers.csproj", "{7E30341A-2E34-4696-B999-1DFF77F18479}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFitness.Exceptions", "SmartFitness.Exceptions\SmartFitness.Exceptions.csproj", "{9C121599-8194-4568-86A5-25986D4CDDDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartFitness.Logging", "SmartFitness.Exceptions\SmartFitness.Logging.csproj", "{9C121599-8194-4568-86A5-25986D4CDDDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

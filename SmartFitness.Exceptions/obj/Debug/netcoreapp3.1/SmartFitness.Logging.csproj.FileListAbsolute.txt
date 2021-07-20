@@ -1,0 +1,8 @@
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\bin\Debug\netcoreapp3.1\SmartFitness.Logging.deps.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\bin\Debug\netcoreapp3.1\SmartFitness.Logging.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\bin\Debug\netcoreapp3.1\SmartFitness.Logging.pdb
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\obj\Debug\netcoreapp3.1\SmartFitness.Logging.AssemblyInfoInputs.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\obj\Debug\netcoreapp3.1\SmartFitness.Logging.AssemblyInfo.cs
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\obj\Debug\netcoreapp3.1\SmartFitness.Logging.csproj.CoreCompileInputs.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\obj\Debug\netcoreapp3.1\SmartFitness.Logging.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Exceptions\obj\Debug\netcoreapp3.1\SmartFitness.Logging.pdb

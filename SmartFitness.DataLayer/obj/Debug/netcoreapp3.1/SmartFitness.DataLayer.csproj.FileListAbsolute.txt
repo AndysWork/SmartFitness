@@ -1,0 +1,12 @@
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.deps.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.runtimeconfig.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.runtimeconfig.dev.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.pdb
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.csproj.AssemblyReference.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.AssemblyInfoInputs.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.AssemblyInfo.cs
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.csproj.CoreCompileInputs.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.pdb
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.DataLayer\obj\Debug\netcoreapp3.1\SmartFitness.DataLayer.genruntimeconfig.cache

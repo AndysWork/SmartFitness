@@ -1,0 +1,9 @@
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\bin\Debug\netcoreapp3.1\SmartFitness.Helpers.deps.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\bin\Debug\netcoreapp3.1\SmartFitness.Helpers.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\bin\Debug\netcoreapp3.1\SmartFitness.Helpers.pdb
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\obj\Debug\netcoreapp3.1\SmartFitness.Helpers.csproj.AssemblyReference.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\obj\Debug\netcoreapp3.1\SmartFitness.Helpers.AssemblyInfoInputs.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\obj\Debug\netcoreapp3.1\SmartFitness.Helpers.AssemblyInfo.cs
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\obj\Debug\netcoreapp3.1\SmartFitness.Helpers.csproj.CoreCompileInputs.cache
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\obj\Debug\netcoreapp3.1\SmartFitness.Helpers.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Helpers\obj\Debug\netcoreapp3.1\SmartFitness.Helpers.pdb

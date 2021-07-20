@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SmartFitness.DataLayer\SmartFitness.DataLayer.csproj" />
-    <ProjectReference Include="..\SmartFitness.Exceptions\SmartFitness.Exceptions.csproj" />
+    <ProjectReference Include="..\SmartFitness.Exceptions\SmartFitness.Logging.csproj" />
     <ProjectReference Include="..\SmartFitness.Helpers\SmartFitness.Helpers.csproj" />
     <ProjectReference Include="..\SmartFitness.Mappers\SmartFitness.Mappers.csproj" />
   </ItemGroup>
