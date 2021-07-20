@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WMc84B9bMWiwmqsff7kC2O9rAN8JTISYRI91annPFrvFAldJQXuB1E2VSAJYH9cB/J/IG7to30C6F7tEyUkUUA==",
+  "dgSpecHash": "IhVPjfv1zgMZABT6xMboRcy8ddwl03UEAYH/A+iO3fCngHAbh+eSh4k1kH/2lFpr+Fh4wNP8BsEyjcEUtZP3ZQ==",
   "success": true,
   "projectFilePath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\91994\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.8\\microsoft.entityframeworkcore.design.5.0.8.nupkg.sha512",
     "C:\\Users\\91994\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.8\\microsoft.entityframeworkcore.relational.5.0.8.nupkg.sha512",
     "C:\\Users\\91994\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.8\\microsoft.entityframeworkcore.sqlserver.5.0.8.nupkg.sha512",
+    "C:\\Users\\91994\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.8\\microsoft.entityframeworkcore.tools.5.0.8.nupkg.sha512",
     "C:\\Users\\91994\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\91994\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\91994\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
