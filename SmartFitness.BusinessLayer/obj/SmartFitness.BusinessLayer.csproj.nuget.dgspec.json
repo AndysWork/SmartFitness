@@ -306,7 +306,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj": {
+                "projectPath": "F:\\Github_Version_Learning_Projects\\SmartFitness\\SmartFitness.DataLayer\\SmartFitness.DataLayer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

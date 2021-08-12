@@ -1244,7 +1244,8 @@
       "SmartFitness.Mappers/1.0.0": {
         "dependencies": {
           "AutoMapper": "10.1.1",
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1"
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "SmartFitness.DataLayer": "1.0.0"
         },
         "runtime": {
           "SmartFitness.Mappers.dll": {}

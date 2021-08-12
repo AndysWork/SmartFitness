@@ -7,3 +7,9 @@ F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\obj\Debug\
 F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\obj\Debug\netcoreapp3.1\SmartFitness.Mappers.csproj.CoreCompileInputs.cache
 F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\obj\Debug\netcoreapp3.1\SmartFitness.Mappers.dll
 F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\obj\Debug\netcoreapp3.1\SmartFitness.Mappers.pdb
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\bin\Debug\netcoreapp3.1\SmartFitness.Mappers.runtimeconfig.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\bin\Debug\netcoreapp3.1\SmartFitness.Mappers.runtimeconfig.dev.json
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.dll
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\bin\Debug\netcoreapp3.1\SmartFitness.DataLayer.pdb
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\obj\Debug\netcoreapp3.1\SmartFitness.Mappers.csproj.CopyComplete
+F:\Github_Version_Learning_Projects\SmartFitness\SmartFitness.Mappers\obj\Debug\netcoreapp3.1\SmartFitness.Mappers.genruntimeconfig.cache
